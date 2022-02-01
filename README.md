@@ -34,4 +34,4 @@ within this repository.
 ___
 ## Table of Contents
 
-1) [Circumgalactic and Intracluster Gas](Chapter8/RydenPoggeCH8.ipynb)
+1) [Circumgalactic and Intracluster Gas](/Chapter8/RydenPoggeCH8.ipynb)
