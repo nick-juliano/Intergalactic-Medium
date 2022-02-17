@@ -35,3 +35,4 @@ ___
 ## Table of Contents
 
 1) [Circumgalactic and Intracluster Gas](Chapter8/RydenPoggeCh8.ipynb)
+2) [Diffuse Intergalactic Medium](Chapter9/RydenPoggeCh9.ipynb)
